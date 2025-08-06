@@ -38,3 +38,7 @@ This is a simple machine learning web application built using **Python** and **S
 4. Save the model using `joblib`
 5. Build a Streamlit UI to take user input and make predictions
 6. Deploy the app on Streamlit Cloud
+
+## 🚀 Live Demo
+
+🔗 [Click here to open the app](https://domakuntlatejaswi-loanapprovalproject-app-29bld8.streamlit.app/) *
