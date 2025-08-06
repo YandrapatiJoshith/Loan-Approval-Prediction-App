@@ -1,4 +1,3 @@
-# Loan-Approval-Prediction-App
 # 🏦 Loan Approval Prediction App
 
 This is a simple machine learning web application built using **Python** and **Streamlit** that predicts whether a loan application will be approved based on the applicant's details.
